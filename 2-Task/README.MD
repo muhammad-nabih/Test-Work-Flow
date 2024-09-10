@@ -7,6 +7,7 @@ You are tasked with fixing a bug in the HTML file provided. To ensure a smooth w
 
 1. **Clone the Repository:**
    - Clone the repository to your local machine using the following command:
+
      ```bash
      git clone [repository_url]
      ```
@@ -14,6 +15,7 @@ You are tasked with fixing a bug in the HTML file provided. To ensure a smooth w
 2. **Create a New Feature Branch:**
    - Each participant must create a new feature branch with a unique name based on your task and name format. This avoids conflicts when pushing changes.
    - Use the following naming convention: `[your-name]-[feature-bug-fix]`. For example:
+
      ```bash
      git checkout -b mohamed-fixHeadingBug
      ```
@@ -25,6 +27,7 @@ You are tasked with fixing a bug in the HTML file provided. To ensure a smooth w
 
 4. **Commit Your Changes:**
    - Once the bug is fixed, stage the changes and commit them using a descriptive message.
+
      ```bash
      git add fix-head-bug.html
      git commit -m "Fixed heading increment bug in HTML file"
@@ -32,6 +35,7 @@ You are tasked with fixing a bug in the HTML file provided. To ensure a smooth w
 
 5. **Push Your Changes to the Feature Branch:**
    - Push the changes to your newly created feature branch:
+
      ```bash
      git push origin mohamed-fixHeadingBug
      ```
