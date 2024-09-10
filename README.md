@@ -1,8 +1,11 @@
 # Test-Work-Flow
 
+## Table of Contents
+- [Task 1: Create Your Personal README File](#task-1-create-your-personal-readme-file)
+
 ## Task 1: Create Your Personal README File
 
-create a new README file and name it with your own name.
+Create a new README file and name it with your own name.
 
 ### Hints:
 - Use the "Fork" button on the top right of the repository page to fork the project.
